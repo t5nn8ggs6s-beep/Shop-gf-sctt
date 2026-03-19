@@ -1,7 +1,11 @@
 from aiogram import Bot, Dispatcher, types
 from aiogram.utils import executor
 
-from config import TOKEN, ADMIN_ID, WALLET, SUPPORT
+TOKEN = "8448082383:AAEIrAXXKh-06g8y7r5NnYoxEwa0X4VFjx4"
+ADMIN ID = 8289679178
+
+WALLET = "UQASwX79miLqyK6E2cmlmVqM0jjngFbwbL6WO1hSJlCDgshO"
+SUPPORT = "@vpnnify"
 import db
 import keyboards
 
