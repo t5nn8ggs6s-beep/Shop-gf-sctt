@@ -1,7 +1,7 @@
 from aiogram import Bot, Dispatcher, types
 from aiogram.utils import executor
 
-TOKEN = "8448082383:AAEIrAXXKh-06g8y7r5NnYoxEwa0X4VFjx4"
+TOKEN = "8448082383:AAHmD2H2bbJ5rdmo2621uDtDbYFM29U4UWg"
 ADMIN ID = 8289679178
 
 WALLET = "UQASwX79miLqyK6E2cmlmVqM0jjngFbwbL6WO1hSJlCDgshO"
